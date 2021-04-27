@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1617572459 source:c:\users\lenovo\documents\escultura - parte 2\figurageometrica.cpp
+	<iostream>
+	"figurageometrica.h"
+
+1617714999 source:c:\users\lenovo\documents\escultura - parte 2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"Voxel.h"
+	"figurageometrica.h"
+	"sculptor.h"
+	"interpretador.h"
+	"putVoxel.h"
+	"cutVoxel.h"
+	"putBox.h"
+	"cutBox.h"
+	"putSphere.h"
+	"cutSphere.h"
+	"putEllipsoid.h"
+	"cutEllipsoid.h"
+
+1617564295 c:\users\lenovo\documents\escultura - parte 2\figurageometrica.h
+	"sculptor.h"
+
+1617578301 c:\users\lenovo\documents\escultura - parte 2\sculptor.h
+	"Voxel.h"
+	<string>
+
+1617572354 source:c:\users\lenovo\documents\escultura - parte 2\putvoxel.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putVoxel.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\putvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617572354 source:c:\users\lenovo\documents\escultura - parte 2\putbox.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putBox.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\putbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617629590 source:c:\users\lenovo\documents\escultura - parte 2\cutellipsoid.cpp
+	<iostream>
+	"figurageometrica.h"
+	"cutEllipsoid.h"
+
+1617572354 source:c:\users\lenovo\documents\escultura - parte 2\cutsphere.cpp
+	<iostream>
+	"figurageometrica.h"
+	"cutSphere.h"
+
+1617572354 source:c:\users\lenovo\documents\escultura - parte 2\cutvoxel.cpp
+	<iostream>
+	"figurageometrica.h"
+	"cutVoxel.h"
+
+1617627291 source:c:\users\lenovo\documents\escultura - parte 2\putellipsoid.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putEllipsoid.h"
+
+1617572361 source:c:\users\lenovo\documents\escultura - parte 2\cutbox.cpp
+	<iostream>
+	"figurageometrica.h"
+	"cutBox.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\cutbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617572354 source:c:\users\lenovo\documents\escultura - parte 2\putsphere.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putSphere.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\putsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\putellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617563463 c:\users\lenovo\documents\escultura - parte 2\voxel.h
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\cutellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\cutsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617564348 c:\users\lenovo\documents\escultura - parte 2\cutvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1617578470 source:c:\users\lenovo\documents\escultura - parte 2\sculptor.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<queue>
+	<vector>
+	"sculptor.h"
+
+1617626340 source:c:\users\lenovo\documents\escultura - parte 2\interpretador.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"sculptor.h"
+	"figurageometrica.h"
+	"interpretador.h"
+	"putVoxel.h"
+	"cutVoxel.h"
+	"putBox.h"
+	"cutBox.h"
+	"putSphere.h"
+	"cutSphere.h"
+	"putEllipsoid.h"
+	"cutEllipsoid.h"
+
+1617572139 c:\users\lenovo\documents\escultura - parte 2\interpretador.h
+	<vector>
+	<string>
+	"figurageometrica.h"
+
